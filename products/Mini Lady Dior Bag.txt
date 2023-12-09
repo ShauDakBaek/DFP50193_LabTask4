@@ -1,0 +1,5 @@
+Bag Name: Mini Lady Dior Bag
+Category: Women's Cloth
+Color: Black
+Quantity: 4
+Price: 24500

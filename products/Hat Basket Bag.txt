@@ -1,0 +1,10 @@
+Bag Name: Hat Basket Bag
+Category: Men's Cloth
+Color: Blue
+Quantity: 40
+Price: 12000
+Bag Name: Hat Basket Bag
+Category: Men's Cloth
+Color: Blue
+Quantity: 40
+Price: 12000

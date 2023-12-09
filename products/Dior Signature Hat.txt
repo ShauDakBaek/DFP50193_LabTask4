@@ -1,0 +1,5 @@
+Bag Name: Dior Signature Hat
+Category: Women's Fashion
+Color: Blue
+Quantity: 50
+Price: 20000

@@ -1,0 +1,5 @@
+Bag Name: Christmas Hat
+Category: Men's Fashion
+Color: White
+Quantity: 5
+Price: 20000
